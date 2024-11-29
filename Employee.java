@@ -41,7 +41,7 @@ class Employee {
         System.out.println("Before Bonus:");
         emp1.displayDetails();
         emp2.displayDetails();
-
+la
         // Apply bonuses
         emp1.applyBonus(5000);
         emp2.applyBonus(7000);
