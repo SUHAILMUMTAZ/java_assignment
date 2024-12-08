@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-class Main { 
+class StrManipulation { 
+    // Method to reverse string
     public static String reverseString(String str) {
         return new StringBuilder(str).reverse().toString();
     }
